@@ -1,0 +1,14 @@
+rest:
+  template:
+    timeout: 3000
+
+called_one_api:
+  uri: http://api-jva-spring-boot-spring-cloud-netflix-eureka-client-called-one/api-jva-spring-boot-spring-cloud-netflix-eureka-client-called-one/called-one
+
+called_two_api:
+  uri: http://api-jva-spring-boot-spring-cloud-netflix-eureka-client-called-two/api-jva-spring-boot-spring-cloud-netflix-eureka-client-called-two/called-two
+
+details:
+  moduleName: Spring Cloud Netflix Eureka Client Caller Module
+  endpointName: /caller
+  message: This is the getCaller method of the CallerServiceImpl class of the Caller API.

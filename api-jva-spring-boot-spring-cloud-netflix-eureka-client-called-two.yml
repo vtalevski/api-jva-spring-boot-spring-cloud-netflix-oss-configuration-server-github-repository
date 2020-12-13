@@ -1,0 +1,4 @@
+details:
+  moduleName: Spring Cloud Netflix Eureka Client Called Two Module
+  endpointName: /called-two
+  message: This is the getCalledTwo method of the CalledTwoServiceImpl class of the Called Two API.

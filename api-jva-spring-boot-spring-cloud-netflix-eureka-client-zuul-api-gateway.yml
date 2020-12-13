@@ -1,0 +1,4 @@
+zuul:
+  routes:
+    api-jva-spring-boot-spring-cloud-netflix-eureka-client-caller:
+      path: /api-jva-spring-boot-spring-cloud-netflix-eureka-client-caller/caller

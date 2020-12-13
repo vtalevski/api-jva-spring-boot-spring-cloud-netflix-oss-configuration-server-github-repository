@@ -1,0 +1,4 @@
+details:
+  moduleName: Spring Cloud Netflix Eureka Client Called One Module
+  endpointName: /called-one
+  message: This is the getCalledOne method of the CalledOneServiceImpl class of the Called One API.
